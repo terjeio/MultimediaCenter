@@ -18,4 +18,4 @@ IR Remote Control - RC5 protocol: for input selection, volume control and UI con
 
 Main controller built around a Texas Instruments Tiva C MPU, custom UI library with support for KeyStone radio-module.
 
-Rasberry PI for media playback (via Kodi), in my configuration audio is fed via HDMI to a TV and then to a DAC mounted inside the pre-amp cabinet.
+Raspberry PI for media playback (via Kodi), in my configuration audio is fed via HDMI to a TV and then to a DAC mounted inside the pre-amp cabinet.
